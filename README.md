@@ -3,14 +3,14 @@ This is a simple guide to install dependencies and run the AI Image Generator de
 
 # Installation
 
-1. **Clone the repository**:
+1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/ai-image-generator.git
 cd ai-image-generator
 
-2. **Install the requirements**:
+2. Install the requirements:
 pip install -r requirements.txt
 
-3.**How to run**:
+3. How to run:
 Start the app with
 python app.py
